@@ -1,0 +1,20 @@
+.columnBlockLayout {
+    display: flex;
+    flex-direction: column;
+    word-break: break-word;
+  }
+  
+  .button1 {
+    /* Add your button styling here */
+  }
+  
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .col-md-6 {
+    min-width: 300px;
+    flex-grow: 1;
+  }
+  
